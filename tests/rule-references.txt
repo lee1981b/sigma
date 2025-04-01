@@ -4011,3 +4011,16 @@ https://www.virustotal.com/gui/file/6f0f20da34396166df352bf301b3c59ef42b0bc67f52
 https://learn.microsoft.com/en-us/dotnet/framework/tools/installutil-exe-installer-tool
 https://research.nccgroup.com/2022/07/13/climbing-mount-everest-black-byte-bytes-back/
 https://web.archive.org/web/20230329153811/https://blog.menasec.net/2019/02/threat-huting-10-impacketsecretdump.html
+https://x.com/cyberfeeddigest/status/1887041526397587859
+https://www.tarasco.org/security/pwdump_7/
+https://github.com/xephora/Threat-Remediation-Scripts/tree/main/Threat-Track/CS_INSTALLER
+https://www.loobins.io/binaries/launchctl/
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731935(v=ws.11)
+https://github.com/0xthirteen/SharpMove/
+https://www.virustotal.com/gui/search/behaviour_processes%253A%2522C%253A%255C%255CWindows%255C%255CSysWOW64%255C%255Cmore.com%2522%2520behaviour_processes%253A%2522C%253A%255C%255CWindows%255C%255CMicrosoft.NET%255C%255CFramework%255C%255Cv4.0.30319%255C%255Cvbc.exe%2522/files
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-expression?view=powershell-7.2
+https://thecyberexpress.com/rogue-rdp-files-used-in-ukraine-cyberattacks/
+https://tria.ge/240225-jlylpafb24/behavioral1/analog?main_event=Registry&op=SetValueKeyInt
+https://tria.ge/231023-lpw85she57/behavioral2
+https://web.archive.org/web/20220319032520/https://blog.redbluepurple.io/offensive-research/bypassing-injection-detection
+https://web.archive.org/web/20221204161143/https://www.glitch-cat.com/p/green-lambert-and-attack
