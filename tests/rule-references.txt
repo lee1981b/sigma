@@ -4011,3 +4011,16 @@ https://www.virustotal.com/gui/file/6f0f20da34396166df352bf301b3c59ef42b0bc67f52
 https://learn.microsoft.com/en-us/dotnet/framework/tools/installutil-exe-installer-tool
 https://research.nccgroup.com/2022/07/13/climbing-mount-everest-black-byte-bytes-back/
 https://web.archive.org/web/20230329153811/https://blog.menasec.net/2019/02/threat-huting-10-impacketsecretdump.html
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dnscmd
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-identity-roles.html
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/assoc
+https://learn.microsoft.com/en-us/dotnet/api/system.directoryservices.accountmanagement?view=net-8.0
+https://bazaar.abuse.ch/sample/5cb9876681f78d3ee8a01a5aaa5d38b05ec81edc48b09e3865b75c49a2187831/
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#suspicious-inbox-forwarding
+https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-lambda-privesc
+https://medium.com/r3d-buck3t/red-teaming-in-cloud-leverage-azure-frontdoor-cdn-for-c2-redirectors-79dd9ca98178
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#service-principal-assigned-to-a-role
+https://www.sentinelone.com/labs/ranzy-ransomware-better-encryption-among-new-features-of-thunderx-derivative/
+https://thehackernews.com/2024/03/github-rolls-out-default-secret.html
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-5038
+https://web.archive.org/web/20190710034152/https://github.com/zerosum0x0/CVE-2019-0708
